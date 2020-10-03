@@ -4,6 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6bcdcbf3-b98f-492e-b3cb-444b5ea5510e/deploy-status)](https://app.netlify.com/sites/joke-bot/deploys)
 
 <!-- PROJECT LOGO -->
 <br>
